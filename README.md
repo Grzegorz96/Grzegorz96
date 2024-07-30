@@ -16,6 +16,7 @@
 - [Email](mailto:grzesstrzeszewski@gmail.com)
   
 <h3 align="left">Interests:</h3>
+
 - When I'm not coding, I dive into the world of technology, exploring both hardware and software innovations. I'm also a sports enthusiast, actively playing soccer and basketball.
 
 
