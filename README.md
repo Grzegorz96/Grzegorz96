@@ -1,5 +1,3 @@
-![Banner](https://camo.githubusercontent.com/f68e1dadfdb6904f8320b8f20e1794d39efeb536fbe9b5d9891a64e5bb730b0a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
-
 <h1 align="center">Hi 👋, I'm Grzegorz Strzeszewski</h1>
 <h3 align="center">I'm a passionate developer with a love for both frontend and backend technologies. I enjoy creating dynamic and responsive web applications using React and JavaScript, and I leverage Python for robust backend solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
@@ -10,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my-website](https://grzegorz-strzeszewski-website.netlify.app)
 
-- 💬 Ask me about **React, JavaScript and python development**
+- 💬 Ask me about **React, JavaScript and Python development**
 
 - 📫 How to reach me **grzesstrzeszewski@gmail.com**
   
