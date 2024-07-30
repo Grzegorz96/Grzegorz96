@@ -12,6 +12,7 @@
 - 📫 How to reach me **grzesstrzeszewski@gmail.com**
 
 ## Connect with Me:
+<h3 align="left">Connect with Me:</h3>
 
 - [Email](mailto:grzesstrzeszewski@gmail.com)
   
