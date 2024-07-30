@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Grzegorz Strzeszewski</h1>
 <h3 align="center">I'm a passionate developer with a love for both frontend and backend technologies. I enjoy creating dynamic and responsive web applications using React and JavaScript, and I leverage Python for robust backend solutions.</h3>
