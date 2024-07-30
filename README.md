@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js, Django**
 
-- 👨‍💻 All of my projects are available at [https://grzegorz-strzeszewski-website.netlify.app](https://grzegorz-strzeszewski-website.netlify.app)
+- 👨‍💻 All of my projects are available at [my-website](https://grzegorz-strzeszewski-website.netlify.app)
 
 - 💬 Ask me about **React, JavaScript and python development**
 
