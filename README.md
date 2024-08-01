@@ -1,7 +1,7 @@
+<img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/Grzegorz96/Grzegorz96/main/github-header-image.png"/>
+
 # 💫 About Me:
 I'm Grzegorz Strzeszewski, a passionate developer who loves both frontend and backend technologies. My journey in coding started at the beginning of 2023. I specialize in creating dynamic and responsive web applications using React and JavaScript, and I leverage Python for robust backend solutions.
-
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 - 🔭 I’m currently working on [Meteofy (React app)](https://github.com/Grzegorz96/React-Meteofy)
 
