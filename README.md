@@ -1,20 +1,21 @@
 <img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/Grzegorz96/Grzegorz96/main/github-header-image.png"/>
 
 # 💫 About Me:
-I'm Grzegorz Strzeszewski, a passionate developer who loves both frontend and backend technologies. My journey in coding started at the beginning of 2023. I specialize in creating dynamic and responsive web applications using React and JavaScript, and I leverage Python for robust backend solutions.
+I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend and backend technologies. My coding journey began in early 2023. I specialize in building dynamic, responsive web applications with React and TypeScript/JavaScript, while crafting robust backend solutions using Python and Node.js.
 
-- 🔭 I’m currently working on [Meteofy (React app)](https://github.com/Grzegorz96/React-Meteofy)
+- 🔭 I’m currently working on TimeVoyager - Virtual Museum Application (MERN stack)
 
-- 🌱 I’m currently learning **Typescript, Next.js, Django**
+- 🌱 Upcoming learning goals **Next.js, Django**
 
 - 👨‍💻 All of my projects are available at [my-website](https://grzegorz-strzeszewski-website.netlify.app)
 
-- 💬 Ask me about **React, JavaScript and Python development**
+- 💬 Ask me about **React, Typescript and Python development**
 
 - 📫 How to reach me **grzesstrzeszewski@gmail.com**
 
 # 💻 Tech Stack:
 #### LANGUAGES:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,10 +35,14 @@ I'm Grzegorz Strzeszewski, a passionate developer who loves both frontend and ba
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 
 #### DATABASES:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 #### HOSTING:
@@ -54,6 +59,7 @@ I'm Grzegorz Strzeszewski, a passionate developer who loves both frontend and ba
 
 #### TOOLS:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 
 
 # 📊 GitHub Stats:
