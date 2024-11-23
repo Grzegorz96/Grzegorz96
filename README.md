@@ -34,12 +34,14 @@ I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![ZOD](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Passport](https://img.shields.io/badge/-Passport-4CAF50?style=for-the-badge&logo=passport&logoColor=white)
+![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white)
 
 #### DATABASES:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -60,7 +62,9 @@ I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend 
 
 #### TOOLS:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Ts-node](https://img.shields.io/badge/-ts%20node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 
 
 # 📊 GitHub Stats:
