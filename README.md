@@ -42,6 +42,7 @@ I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend 
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-D9251D?style=for-the-badge&logo=Red%20Bull&logoColor=white)
 
 #### DATABASES:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
