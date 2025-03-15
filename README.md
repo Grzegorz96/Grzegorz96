@@ -1,11 +1,11 @@
 <img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/Grzegorz96/Grzegorz96/main/github-header-image.png"/>
 
 # 💫 About Me:
-I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend and backend technologies. I have two years of experience in building applications, specializing in dynamic and responsive solutions with React and TypeScript/JavaScript, and crafting robust backend systems using Python and Node.js.
+I'm Grzegorz Strzeszewski, a passionate developer with a love for both frontend and backend technologies. I have two and a half years of experience in building applications, specializing in dynamic and responsive solutions with React and TypeScript/JavaScript, and crafting robust backend systems using Python and Node.js.
 
 - 🔭 I’m currently working on TimeVoyager - Virtual Museum Application (MERN stack)
 
-- 🌱 Upcoming learning goals **Next.js, Django**
+- 🌱 Upcoming learning goals **Next.js, Django, Golang**
 
 - 👨‍💻 All of my projects are available at [my-website](https://grzegorz-strzeszewski-website.netlify.app)
 
