@@ -1,17 +1,17 @@
 <img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/Grzegorz96/Grzegorz96/main/github-header-image.png"/>
 
 # 💫 About Me:
-Hi, I’m Grzegorz Strzeszewski, a fullstack developer with over 2.5 years of experience building scalable and maintainable applications. I specialize in frontend development with React, TypeScript, and JavaScript, and backend development using Node.js (NestJS, Express) and Python. I work extensively with PostgreSQL, MongoDB, and Redis, focusing on performance optimization and clean architecture.
+Hi, I’m Grzegorz Strzeszewski, a fullstack developer with over 3 years of experience building scalable and maintainable applications. I specialize in frontend development with ReactJS, TypeScript, and NextJS, and backend development using Node.js (NestJS, Express) and Python. I work extensively with PostgreSQL, MongoDB, and Redis, focusing on performance optimization and clean architecture.
 
 I have practical experience with Microservices, Event-Driven architecture, AWS services, and Docker containerization to deliver efficient and reliable systems.
 
 - 🔭 I’m currently working on TimeVoyager - Virtual Museum Application (MERN stack)
 
-- 🌱 Upcoming learning goals **Next.js, ShadCN, Kubernetes, GH Actions, Terraform, Prometheus, Grafana**
+- 🌱 Upcoming learning goals **Kubernetes, GH Actions, Terraform, Prometheus, Grafana**
 
 - 👨‍💻 All of my projects are available at [my-website](https://grzegorz-strzeszewski-website.netlify.app)
 
-- 💬 Ask me about **React, Typescript, Python and backend architecture**
+- 💬 Ask me about **React, Typescript, NextJS, NestJS and backend architecture**
 
 - 📫 How to reach me **grzesstrzeszewski@gmail.com**
 
