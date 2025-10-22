@@ -30,6 +30,8 @@ I have practical experience with Microservices, Event-Driven architecture, AWS s
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Styled Components](https://img.shields.io/badge/styled_components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-%23324947.svg?style=for-the-badge&logo=chart.js&logoColor=%23FF6384)
 ![React Query](https://img.shields.io/badge/react_query-%2319202F.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
